@@ -1,0 +1,22 @@
+{
+  "name": "grapevine-two-point-oh",
+  "version": "1.0.0",
+  "description": "grapevine api",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "api",
+    "crud",
+    "restful",
+    "character",
+    "generator",
+    "rpg"
+  ],
+  "author": "Ernest Bluford",
+  "license": "ISC"
+}
